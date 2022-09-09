@@ -12,7 +12,7 @@ config server
 	option port '7890'
 	option auth_user 'root'
 	option auth_password 'password'
-	option refresh_token '8c24429434ad441babee98d4c1a3c8b9'
+	option refresh_token '636bdebe209a4b059b7dcb6a9375e895'
 	option upload_buffer_size '16777216'
 	option skip_upload_same_size '0'
 
